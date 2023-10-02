@@ -1,0 +1,107 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+h1{
+    margin: 0%;
+    padding: 100px ;
+    padding-bottom: 30px;
+    font-family: 'Sacramento', cursive;
+    font-size: 100px;
+    color: #78D6C6;
+}
+h2{
+    font-family: 'Roboto Slab', serif;
+    color:#419197;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    float: center;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+    font-size:larger; 
+    width: 40%;
+    margin: 30px auto 30px auto;  
+}
+.top-cloud{
+    position: absolute;
+    right: 200px;
+    top: 50px;
+
+}
+.bottom-cloud{
+    position: absolute;
+    left: 220px;
+    bottom: 320px;
+}
+.mount{
+    padding-top: 100px;
+    width: ;
+}
+.Intro{
+    padding-top: 100px;
+}
+.mine{
+    padding-top: 50px;
+}
+.skill-row{
+    margin: 30px auto 30px auto;
+}
+.computer{
+    width: 20%;
+}
+.agri{
+    width: 25%;
+}
+.top-container{
+    position: relative;
+    background-color: rgb(177, 246, 223);
+    margin:0;
+}
+.btn {
+    background: #68c3fc;
+    background-image: -webkit-linear-gradient(top, #68c3fc, #40a9e6);
+    background-image: -moz-linear-gradient(top, #68c3fc, #40a9e6);
+    background-image: -ms-linear-gradient(top, #68c3fc, #40a9e6);
+    background-image: -o-linear-gradient(top, #68c3fc, #40a9e6);
+    background-image: linear-gradient(to bottom, #68c3fc, #40a9e6);
+    -webkit-border-radius: 14;
+    -moz-border-radius: 14;
+    border-radius: 14px;
+    text-shadow: 4px 3px 2px #666666;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 25px;
+    padding: 10px 20px 10px 20px;
+    border: solid #1f628d 7px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #18f7b8;
+    background-image: -webkit-linear-gradient(top, #18f7b8, #21e8d7);
+    background-image: -moz-linear-gradient(top, #18f7b8, #21e8d7);
+    background-image: -ms-linear-gradient(top, #18f7b8, #21e8d7);
+    background-image: -o-linear-gradient(top, #18f7b8, #21e8d7);
+    background-image: linear-gradient(to bottom, #18f7b8, #21e8d7);
+    text-decoration: none;
+  }
+  .list{
+    list-style-type: none;
+  }
+  .bottom-container{
+    padding: 50px;
+    background-color: #40a9e6;
+  }
+  a{
+    text-decoration: none;
+    padding: 10px 20px ;
+    color: #37f4c8;
+  }
+  a:hover{
+    color: white;
+  }
+  .head{
+    padding-top: 50px;
+  }
